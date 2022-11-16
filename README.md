@@ -17,7 +17,7 @@ HAC用拡張自律化モジュールの組み立て：HAC入門編 Part.5
 ## サンプルコード
 サンプルコードはこちらです。  
 HACにこの拡張ハードウェアを使って参加する際のサンプルコードを公開しています。  
-(KXR_HAC_Softwareのリンク)
+(https://github.com/rt-net/KXR_HAC_Software.git)
 
 ## ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
